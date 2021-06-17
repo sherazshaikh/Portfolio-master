@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name": "Sheraz Shaikh",
+    "description": "I'm a design-minded front-end software engineer focused on building beautiful interface & experiences.",
+    "image": "profile_img.jpeg",
+    "bio": "I'm a passionate front-end developer and enthusiactic programmer, always pumped to creating new projects out there. I have experience developing and designing web application, from simple landing pages to progressive web applications. I strive to create web applications that not only functions efficiently under the hood, but also provides intuitive, pixel-perfect user experiences. I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code. I consider work an ongoing education, and I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn. At the end of the day, my primary goal is to create something beautiful with people that bring out best in me.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "shaikhsheraz7@gmail.com",
+    "phone": "+92 3149673226",
+    "address": {
+      "city": "Karachi,Pakistan",
+      "state": "Sindh",
+      "zip": "7576"
+    },
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sheraz-shaikh-6352441a0/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sherazshaikh",
+        "className": "fa fa-github"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Jinnah Politechnic Institute- Pakisatn",
+        "degree": "Deploma Associate Engeniering",
+        "graduated": "Oct 2017"
+      }
+      
+    ],
+    "work": [
+     
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NextJs",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Imessage Clone (React JS)",
+        "category": "",
+        "image": "imessage.png",
+        "url": "https://imessage-clone-530e2.web.app/chat"
+      },
+      {
+        "title": "OLX Clone (React JS)",
+        "category": "",
+        "image": "olx.png",
+        "url": "https://olxdemo-12b63.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-8d4d6.web.app/"
+      },
+      {
+        "title": "Amazon Clone (Next JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-clone-2-0-rmc7qcovi-sherazshaikh.vercel.app/"
+      },
+      {
+        "title": "Hulu Clone (Next JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu-next-iota.vercel.app/"
+      }
+    ]
+  }
+}
